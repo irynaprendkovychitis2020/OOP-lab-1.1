@@ -1,0 +1,7 @@
+﻿  lab 1.1 ).cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.1\lab 1.1 )\lab 1.1 )\Number.h(14,42): warning C4244: return: преобразование "const double" в "unsigned int", возможна потеря данных
+  Number.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.1\lab 1.1 )\lab 1.1 )\Number.h(14,42): warning C4244: return: преобразование "const double" в "unsigned int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.1\lab 1.1 )\lab 1.1 )\Number.cpp(45,15): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab 1.1 ).vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.1\lab 1.1 )\Debug\lab 1.1 ).exe
